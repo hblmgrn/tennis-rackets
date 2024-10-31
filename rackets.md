@@ -1,3 +1,6 @@
+Current Inventory
+-----------------
+
 Babolat Pure Storm Tour 98
 Wilson Six One 95
 Wilson Six One Tour 90
