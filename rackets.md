@@ -23,20 +23,20 @@ Wilson Blade 98 G3
 Buy List
 ---------
 
-Rossignol F200
-Rossignol F250
-Wilson Pro Staff 95
-Wilson Pro Staff 85
-Wilson Pro Staff 88
-Wilson Blade 93
-Wilson Ultra 95
-Head PT57A
-Head Tour 600
-Völkl C10 Pro
-Fischer Vacuum Pro 98
-Yamaha Secret
-Yonex Reigna
-Yonex VCore
-Yonex Percept
+Rossignol F200  
+Rossignol F250  
+Wilson Pro Staff 95  
+Wilson Pro Staff 85  
+Wilson Pro Staff 88  
+Wilson Blade 93  
+Wilson Ultra 95  
+Head PT57A  
+Head Tour 600  
+Völkl C10 Pro  
+Fischer Vacuum Pro 98  
+Yamaha Secret  
+Yonex Reigna  
+Yonex VCore  
+Yonex Percept  
 
 
