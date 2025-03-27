@@ -21,6 +21,8 @@ Current Inventory
 |Wilson |Pro Open 100 | G3  
 |Dunlop | Biomimetic 300 | G?  
 |Wilson | Blade 98 | G3  
+|Head | Prestige Tour 660 | G?  
+|Head | Gravity MP | G3
 
 Buy List
 ---------
