@@ -22,7 +22,8 @@ Current Inventory
 |Dunlop | Biomimetic 300 | G?  
 |Wilson | Blade 98 | G3  
 |Head | Prestige Tour 660 | G?  
-|Head | Gravity MP | G3
+|Head | Gravity MP | G
+|Babolat| Pure Control | G3 yonex ptpg 1.25 Yellow
 
 Buy List
 ---------
