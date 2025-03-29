@@ -23,7 +23,7 @@ Current Inventory
 |Wilson | Blade 98 | G3  
 |Head | Prestige Tour 660 | G?  
 |Head | Gravity MP | G
-|Babolat| Pure Control | G3 yonex ptpg 1.25 Yellow
+|Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
 
 Buy List
