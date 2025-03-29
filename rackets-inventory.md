@@ -10,11 +10,11 @@ Current Inventory
 |Rossignol | F200 | G2?  
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
 |Dunlop | Revelation Tour | G?  
-|Technifibre | 315 Limited | G?  
+|Technifibre | 315 Limited | G3 | 315g (unstrung spec | 18x20 Alu Power (16/17)  
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
-|Prince |Tour 100 |G?  
+|Prince |Tour 100 |G3 | 305g (unstrung spec) | Technifibre Biphase X-one 1.30 23kg |  
 |Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
-|Head | Prestige Midplus 98 | G?  
+|Head | Prestige Midplus 98 | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |  
 |Wilson | Ultra 95 | G?  
 |Dunlop | Cx 200 Tour 95 | G?  
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
@@ -24,6 +24,7 @@ Current Inventory
 |Head | Prestige Tour 660 | G?  
 |Head | Gravity MP | G
 |Babolat| Pure Control | G3 yonex ptpg 1.25 Yellow
+|Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
 
 Buy List
 ---------
