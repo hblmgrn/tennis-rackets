@@ -25,6 +25,7 @@ Current Inventory
 |Head | Gravity MP | G
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
+|Babolat|Pure Drive Tour| 315g (unstrung spec) | Solinco Tour Bite Soft 21kg |
 
 Buy List
 ---------
