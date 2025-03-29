@@ -20,7 +20,7 @@ Current Inventory
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
 |Wilson |Pro Open 100 (Blx 2012 matte) | G3 | 299 (unstring spec) | Yonex PTG Strike 1.25 22.5kb |
 |Dunlop | Biomimetic 300 | G?  
-|Wilson | Blade 98 | G3  
+|Wilson | Blade 98 18x20 (Black Green) | G? | Wilson Revolve |
 |Head | Prestige Tour 660 | G?  
 |Head | Gravity MP | G
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
