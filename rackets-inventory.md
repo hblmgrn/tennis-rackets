@@ -17,7 +17,7 @@ Current Inventory
 |Head | Prestige Midplus 98 | G?  
 |Wilson | Ultra 95 | G?  
 |Dunlop | Cx 200 Tour 95 | G?  
-|Wilson |Pro Open 100 | G3  
+|Wilson |Pro Open 100 (Blx) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
 |Wilson |Pro Open 100 | G3  
 |Dunlop | Biomimetic 300 | G?  
 |Wilson | Blade 98 | G3  
