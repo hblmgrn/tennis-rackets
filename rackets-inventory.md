@@ -5,7 +5,7 @@ Current Inventory
 | ----- | ----- | --------- | ------ | --------- |
 |Babolat | Pure Storm Tour 98 | G3 | 320g (unstrung spec | 16x20 TF Biphase X-one 1.30 50lbs |  
 |Wilson | Six One 95| G3 |  
-|Wilson | Six One Tour 90 | G3  
+|Wilson | Six One Tour 90 BLX 2010 | G3 | 339g (unstrung spec) | Hybrid: Mains: Luxilon M2 17 Cross: Technifibre Promix 17 | 
 |Lacoste | Open 340 | G3  
 |Rossignol | F200 | G2?  
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
