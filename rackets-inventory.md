@@ -3,7 +3,7 @@ Current Inventory
 
 | Brand | Model | Grip Size | Weight | Stringing | 
 | ----- | ----- | --------- | ------ | --------- |
-|Babolat | Pure Storm Tour 98 | G3 |  
+|Babolat | Pure Storm Tour 98 | G3 | 320g (unstrung spec | 16x20 TF Biphase X-one 1.30 50lbs |  
 |Wilson | Six One 95| G3 |  
 |Wilson | Six One Tour 90 | G3  
 |Lacoste | Open 340 | G3  
