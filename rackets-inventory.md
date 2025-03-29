@@ -8,7 +8,7 @@ Current Inventory
 |Wilson | Six One Tour 90 | G3  
 |Lacoste | Open 340 | G3  
 |Rossignol | F200 | G2?  
-|Prince | Phantom 93 | G4  
+|Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
 |Dunlop | Revelation Tour | G?  
 |Technifibre | 315 Limited | G?  
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
