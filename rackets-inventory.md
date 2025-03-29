@@ -1,8 +1,8 @@
 Current Inventory
 -----------------
 
-| Brand | Model | Grip Size |
-| ----- | ----- | --------- |
+| Brand | Model | Grip Size | Weight | Stringing | 
+| ----- | ----- | --------- | ------ | --------- |
 |Babolat | Pure Storm Tour 98 | G3 |  
 |Wilson | Six One 95| G3 |  
 |Wilson | Six One Tour 90 | G3  
