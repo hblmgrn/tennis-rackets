@@ -13,12 +13,12 @@ Current Inventory
 |Technifibre | 315 Limited | G?  
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
 |Prince |Tour 100 |G?  
-|Head | Speed 100 | G?  
+|Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
 |Head | Prestige Midplus 98 | G?  
 |Wilson | Ultra 95 | G?  
 |Dunlop | Cx 200 Tour 95 | G?  
-|Wilson |Pro Open 100 (Blx) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
-|Wilson |Pro Open 100 | G3  
+|Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
+|Wilson |Pro Open 100 (Blx 2012 matte) | G3 | 299 (unstring spec) | Yonex PTG Strike 1.25 22.5kb |
 |Dunlop | Biomimetic 300 | G?  
 |Wilson | Blade 98 | G3  
 |Head | Prestige Tour 660 | G?  
