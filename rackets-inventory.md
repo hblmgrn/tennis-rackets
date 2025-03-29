@@ -11,7 +11,7 @@ Current Inventory
 |Prince | Phantom 93 | G4  
 |Dunlop | Revelation Tour | G?  
 |Technifibre | 315 Limited | G?  
-|Head |Pro Tour 2.0 | G4  
+|Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
 |Prince |Tour 100 |G?  
 |Head | Speed 100 | G?  
 |Head | Prestige Midplus 98 | G?  
