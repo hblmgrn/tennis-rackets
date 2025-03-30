@@ -16,7 +16,8 @@ Current Inventory
 |Dunlop | Revelation Tour | G?  
 |Technifibre | 315 Limited | G3 | 315g (unstrung spec | 18x20 Alu Power (16/17)  
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
-|Prince |Tour 100 |G3 | 305g (unstrung spec) | Technifibre Biphase X-one 1.30 23kg |  
+|Prince |Tour 100 |G3 | 305g (unstrung spec) | Technifibre Biphase X-one 1.30 23kg |
+|Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut |  
 |Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
 |Head | Prestige Midplus 98 | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |  
 |Wilson | Ultra 95 | G?  
