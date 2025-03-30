@@ -33,9 +33,9 @@ Current Inventory
 |Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revolve |
 |Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revovle |
 |Wilson| Blade 98 16x18 Amplifeel Spin Effect | G3 | Unknown Hybrid |
-|Babolat|Pure Drive Tour| 315g (unstrung spec) | Solinco Tour Bite Soft 21kg |
-|Wilson| Pro Staff RF Autograph 97 | 340g | Babolat RPM Blast|
-|Wilson| Pro Staff RF Autograph 97 | 340g | Babolat RPM Blast|
+|Babolat|Pure Drive Tour| 315g (unstrung spec) | G3 | Solinco Tour Bite Soft 21kg |
+|Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast|
+|Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast|
 
 
 
