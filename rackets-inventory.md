@@ -4,7 +4,8 @@ Current Inventory
 | Brand | Model | Grip Size | Weight | Stringing | 
 | ----- | ----- | --------- | ------ | --------- |
 |Babolat | Pure Storm Tour 98 | G3 | 320g (unstrung spec | 16x20 TF Biphase X-one 1.30 50lbs |  
-|Wilson | Six One 95| G3 |  
+|Wilson | Six One 95 BLX 2010 | G3 | 
+|Wilson | Six One 95 Amplifel | G3 |  
 |Wilson | Six One Tour 90 BLX 2010 | G3 | 339g (unstrung spec) | Hybrid: Mains: Luxilon M2 17 Cross: Technifibre Promix 17 | 
 |Lacoste | Open 340 | G3  
 |Rossignol | F200 | G2?  
@@ -25,7 +26,14 @@ Current Inventory
 |Head | Gravity MP | G
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
+|Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revolve |
+|Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revovle |
+|Wilson| Blade 98 16x18 Amplifeel Spin Effect | G3 | Unknown Hybrid |
 |Babolat|Pure Drive Tour| 315g (unstrung spec) | Solinco Tour Bite Soft 21kg |
+|Wilson| Pro Staff RF Autograph 97 | 340g | Babolat RPM Blast|
+|Wilson| Pro Staff RF Autograph 97 | 340g | Babolat RPM Blast|
+
+
 
 Buy List
 ---------
