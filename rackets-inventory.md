@@ -36,6 +36,18 @@ Current Inventory
 |Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast|
 |Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast|
 
+Legacy Inventory
+-----------------
+
+| Brand | Model | Grip Size | Weight | Stringing | Remarks | 
+| ----- | ----- | --------- | ------ | --------- | ------- |
+|Rossignol| F250 | G? | ? | ? | ? |
+|Rossignol| F340 Kevlar | G? | ? | ? | ? |
+|Rossignol| F340 Kevlar | G? | ? | ? | ? |
+|Prince| Graphite 90 | G?|
+|Prince| Powerflex 90| G? |
+|Prince| Precision 95 | G? |
+|Prince| Precision 95 | G? |
 
 
 Buy List
