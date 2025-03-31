@@ -19,7 +19,7 @@ Current Inventory
 |Prince |Tour 100 |G3 | 305g (unstrung spec) | Technifibre Biphase X-one 1.30 23kg |
 |Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut |  
 |Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
-|Head | Prestige Midplus 98 | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |  
+|Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |  
 |Wilson | Ultra 95 | G?  
 |Dunlop | Cx 200 Tour 95 | G?  
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
