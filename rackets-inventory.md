@@ -41,7 +41,7 @@ Legacy Inventory
 
 | Brand | Model | Grip Size | Weight | Stringing | Remarks | 
 | ----- | ----- | --------- | ------ | --------- | ------- |
-|Rossignol| F250 | G? | ? | ? | ? |
+|Rossignol| F250 | G? | ? | ? | Broken Frame |
 |Rossignol| F340 Kevlar | G? | ? | ? | ? |
 |Rossignol| F340 Kevlar | G? | ? | ? | ? |
 |Prince| Graphite 90 | G?|
