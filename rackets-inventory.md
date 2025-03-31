@@ -10,8 +10,8 @@ Current Inventory
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
-|Lacoste | Open 340 | G3  
-|Rossignol | F200 | G2?  
+|Lacoste | Open 340 | G3 | 353gr strung with leather grip | Syn Gut | 
+|Rossignol | F200 | G5 | 378gr strung with leather grip | Syn Gut |   
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
 |Dunlop | Revelation Pro Midplus | G2-G3 | 335g strung with overgrip |  
 |Technifibre | 315 Limited | G3 | 315g (unstrung spec | 18x20 Alu Power (16/17)  
@@ -43,8 +43,9 @@ Legacy Inventory
 | Brand | Model | Grip Size | Weight | Stringing | Remarks | 
 | ----- | ----- | --------- | ------ | --------- | ------- |
 |Rossignol| F250 | G? | ? | ? | Broken Frame |
-|Rossignol| F340 Kevlar | G? | ? | ? | ? |
-|Rossignol| F340 Kevlar | G? | ? | ? | ? |
+|Rossignol| F150 | G3 |349g strung with overgrip | ? | Broken Frame |
+|Rossignol| F340 Kevlar | G3 | 362g strung with leathergrip | ? | ? |
+|Rossignol| F340 Kevlar | G4-G5 | 357g strung with leathergrip | ? | ? |
 |Prince| Graphite Pro Series 90 | G3 | 350g strung with overgrip | Syn Gut | |
 |Prince| Graphite Powerflex 90| G5 | 332g strung with overgrip | Syn Gut | |
 |Prince| Precision Graphite 640PL 95  | G4 | 361g Strung with Overgrip | 16x20 Unknown Black Poly | 
