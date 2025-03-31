@@ -49,6 +49,7 @@ Legacy Inventory
 |Prince| Precision 95 | G? |
 |Prince| Precision 95 | G? |
 |Wilson| Ultra Series 95 Tapered Beam Kevlar | G4 | 347g Strung with Overgrip | Syn Gut | Broken Frame, Grommets need replacing |
+|Wilson| Ultra Series 95 Tapered Bream Graphite | G3 or G4 | 350g Strung with Overgrip | Syn Gut | Repaired Frame with epoxy, non structural. Grommets need replacing |
 |Wilson| Graphite Aggressor 95 | G3 | ? | |
 |Wilson| Graphite Aggressor 95 | G2 | ? | |
 
