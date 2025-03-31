@@ -44,8 +44,8 @@ Legacy Inventory
 |Rossignol| F250 | G? | ? | ? | Broken Frame |
 |Rossignol| F340 Kevlar | G? | ? | ? | ? |
 |Rossignol| F340 Kevlar | G? | ? | ? | ? |
-|Prince| Graphite 90 | G?|
-|Prince| Powerflex 90| G? |
+|Prince| Graphite Pro Series 90 | G3 | 350g strung with overgrip | Syn Gut | |
+|Prince| Graphite Powerflex 90| G5 | 332g strung with overgrip | Syn Gut | |
 |Prince| Precision Graphite 640PL 95  | G4 | 361g Strung with Overgrip | 16x20 Unknown Black Poly | 
 |Prince| Precision Graphite 640PL 95 | G3 | 359g Strung with Overgrip | 16x20 Syn Gut | 
 |Wilson| Ultra Series 95 Tapered Beam Kevlar | G4 | 347g Strung with Overgrip | Syn Gut | Broken Frame, Grommets need replacing |
