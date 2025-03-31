@@ -3,8 +3,8 @@ Current Inventory
 
 | Brand | Model | Grip Size | Weight | Stringing | Remarks | 
 | ----- | ----- | --------- | ------ | --------- | ------- |
-|Wilson | Six One 95 BLX 2010 | G3 | 332 g unstrung spec | | Crack in frame | 
-|Wilson | Six One 95 Amplifeel | G3 | 332 g unstrung spec | | | 
+|Wilson | Six One 95 BLX 2010 | G3 | 332 g unstrung spec | 16x18 Hybrid: Mains: Luxilon M2 17 Cross: Technifibre Promix 17 | Crack in frame | 
+|Wilson | Six One 95 Amplifeel | G3 | 332 g unstrung spec |  16x18 Wilson Sensation 16 | | 
 |Wilson | Six One Tour 90 BLX 2010 | G3 | 339g (unstrung spec) | Hybrid: Mains: Luxilon M2 17 Cross: Technifibre Promix 17 |
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
@@ -31,7 +31,7 @@ Current Inventory
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
 |Dunlop | Cx 200 Tour 95 | G2 | 315g unstrung spec | 18x20 MSV Co Focus 1.23|   
 |Dunlop | Biomimetic 300 | G3 | 332g strung with overgrip | Dunlop silk 1.30 Syn Gut 18x20 | Frame very good condition |  
-|Dunlop | Revelation Pro Midplus | G2-G3 | 335g strung with overgrip |  ?
+|Dunlop | Revelation Pro Midplus | G2-G3 | 335g strung with overgrip | 16x20 Pacific unitec syn gut | Frame good condition| 
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
 |Babolat | Pure Storm Tour 98 | G3 | 320g (unstrung spec | 16x20 TF Biphase X-one 1.30 50lbs |  
 |Babolat|Pure Drive Tour| G3 | 315g | Solinco Tour Bite Soft 21kg |
