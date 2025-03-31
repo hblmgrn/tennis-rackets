@@ -11,7 +11,8 @@ Current Inventory
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Lacoste | Open 340 | G3 | 353gr strung with leather grip | Syn Gut | 
-|Rossignol | F200 | G5 | 378gr strung with leather grip | Syn Gut |   
+|Rossignol | F200 Grey | G5 | 378gr strung with leather grip | Syn Gut |
+|Rossignol | F200 Blue | G4 | 348gr strung with unknown grip | Syn Gut |  
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
 |Dunlop | Revelation Pro Midplus | G2-G3 | 335g strung with overgrip |  
 |Technifibre | 315 Limited | G3 | 315g (unstrung spec | 18x20 Alu Power (16/17)  
