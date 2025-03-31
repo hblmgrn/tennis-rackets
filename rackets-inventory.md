@@ -48,6 +48,7 @@ Legacy Inventory
 |Prince| Powerflex 90| G? |
 |Prince| Precision 95 | G? |
 |Prince| Precision 95 | G? |
+|Wilson| Ultra 95 Kevlar | G? | ? | ? | Broken Frame |
 
 
 Buy List
