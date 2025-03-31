@@ -19,13 +19,14 @@ Current Inventory
 |Prince |Tour Pro 100 |G3 | 305g (unstrung spec), 322 strung with leather grip | Technifibre Biphase X-one 1.30 23kg | Has head leather grip, replace |
 |Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut |  
 |Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
-|Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |  
+|Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |
+|Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | 
 |Wilson | Ultra 95 | G?  
 |Dunlop | Cx 200 Tour 95 | G?  
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
 |Wilson |Pro Open 100 (Blx 2012 matte) | G3 | 299 (unstring spec) | Yonex PTG Strike 1.25 22.5kb |
 |Dunlop | Biomimetic 300 | G?  
-|Head | Prestige Tour 660 | G?  
+|Head | Prestige Tour (660) 18x19 | G2-G3 | 330g strung without base grip | Need to repair/replace handle  
 |Head | Gravity MP | G
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
