@@ -18,7 +18,7 @@ Current Inventory
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
 |Prince |Tour Pro 100 |G3 | 305g (unstrung spec), 322 strung with leather grip | Technifibre Biphase X-one 1.30 23kg | Has head leather grip, replace |
 |Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut |  
-|Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
+|Head | Speed 100 Pro Youtek | G2-G3 | 315g (unstrung spec) | 18x20 unknown yellow poly | Needs to be restringed |  
 |Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |
 |Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | 
 |Wilson | Ultra 95 | G?  
