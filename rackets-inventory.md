@@ -11,9 +11,9 @@ Current Inventory
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Lacoste | Open 340 | G3 | 353gr strung with leather grip | Syn Gut | 
-|Rossignol | F200 Grey | G5 | 378gr strung with leather grip | Syn Gut |
-|Rossignol | F200 Blue | G4 | 348gr strung with unknown grip | Syn Gut |
-|Rossignol | F200 White | G5 | 377gr strung with leather grip | Syn Gut |  
+|Rossignol | F200 Grey | G5 | 378gr strung with leather grip | Syn Gut 16 x 17 |
+|Rossignol | F200 Blue | G4 | 348gr strung with unknown grip | Syn Gut 16 x 17. |
+|Rossignol | F200 White | G5 | 377gr strung with leather grip | Syn Gut 16 x 17. |  
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
 |Dunlop | Revelation Pro Midplus | G2-G3 | 335g strung with overgrip |  
 |Technifibre | 315 Limited | G3 | 315g (unstrung spec | 18x20 Alu Power (16/17)  
@@ -23,13 +23,12 @@ Current Inventory
 |Head | Speed 100 Pro Youtek | G2-G3 | 315g (unstrung spec) | 18x20 unknown yellow poly | Needs to be restringed |  
 |Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |
 |Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | 
-|Wilson | Ultra 95 | G?  
-|Dunlop | Cx 200 Tour 95 | G?  
+|Dunlop | Cx 200 Tour 95 | G2 | 315g unstrung spec | 18x20 MSV Co Focus 1.23|   
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
 |Wilson |Pro Open 100 (Blx 2012 matte) | G3 | 299 (unstring spec) | Yonex PTG Strike 1.25 22.5kb |
-|Dunlop | Biomimetic 300 | G?  
+|Dunlop | Biomimetic 300 | G3 | 332g strung with overgrip | Dunlop silk 1.30 Syn Gut 18x20 | Frame very good condition |  
 |Head | Prestige Tour (660) 18x19 | G2-G3 | 330g strung without base grip | Need to repair/replace handle  
-|Head | Gravity MP | G
+|Head | Gravity MP | G3 | 295g unstrung spec | Weiss Cannon Turbo Twist 22-23kg | |
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow |
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
 |Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revolve |
@@ -44,7 +43,7 @@ Legacy Inventory
 
 | Brand | Model | Grip Size | Weight | Stringing | Remarks | 
 | ----- | ----- | --------- | ------ | --------- | ------- |
-|Rossignol| F250 | G? | ? | ? | Broken Frame |
+|Rossignol| F250 | G5 | 371g strung with overgrip | Syn Gut Sufix Toplon I  16x18| Broken Frame |
 |Rossignol| F150 | G3 |349g strung with overgrip | ? | Broken Frame |
 |Rossignol| F340 Kevlar | G3 | 362g strung with leathergrip | ? | ? |
 |Rossignol| F340 Kevlar | G4-G5 | 357g strung with leathergrip | ? | ? |
@@ -52,12 +51,18 @@ Legacy Inventory
 |Prince| Graphite Powerflex 90| G5 | 332g strung with overgrip | Syn Gut | |
 |Prince| Precision Graphite 640PL 95  | G4 | 361g Strung with Overgrip | 16x20 Unknown Black Poly | 
 |Prince| Precision Graphite 640PL 95 | G3 | 359g Strung with Overgrip | 16x20 Syn Gut | 
-|Wilson| Ultra Series 95 Tapered Beam Kevlar | G4 | 347g Strung with Overgrip | Syn Gut | Broken Frame, Grommets need replacing |
-|Wilson| Ultra Series 95 Tapered Bream Graphite | G3 or G4 | 350g Strung with Overgrip | Syn Gut | Repaired Frame with epoxy, non structural. Grommets need replacing |
+|Wilson| Ultra Series 95 Tapered Beam Kevlar | G4 | 347g Strung with Overgrip | 16 x 18 Syn Gut | Broken Frame, Grommets need replacing |
+|Wilson| Ultra Series 95 Tapered Bream Graphite | G3 or G4 | 350g Strung with Overgrip | 16 x 18 Syn Gut Pacific Nyltec| Repaired Frame with epoxy, non structural. Grommets need replacing |
 |Wilson| Ultra Silverbird 95 Tapered Beam | G4 | 342g strung with overgrip | Syn Gut | Almost like new |
-|Wilson| Graphite Aggressor 95 | G3 | ? | |
-|Wilson| Graphite Aggressor 95 | G2 | ? | |
+|Wilson| Graphite Aggressor 95 | G3 | 321 strung without basegrip | 16x18 Syn Gut | Missing base grip, Very Worn frame
+|Wilson| Graphite Aggressor 95 | G2 | 329 strung without basegrip | 16x18 Syn Gut | Missing base grip, Worn frame
 
+Outgoing Inventory
+-----------------
+
+| Brand | Model | Grip Size | Weight | Stringing | Remarks | 
+| ----- | ----- | --------- | ------ | --------- | ------- |
+| Wilson| Sting 100 | G3 | 326 strung with overgrip | Syn Gut | Sell candidate | 
 
 Buy List
 ---------
