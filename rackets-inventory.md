@@ -13,10 +13,10 @@ Current Inventory
 |Lacoste | Open 340 | G3  
 |Rossignol | F200 | G2?  
 |Prince | Phantom 93 | G4 | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | 
-|Dunlop | Revelation Tour | G?  
+|Dunlop | Revelation Pro Midplus | G2-G3 | 335g strung with overgrip |  
 |Technifibre | 315 Limited | G3 | 315g (unstrung spec | 18x20 Alu Power (16/17)  
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg |
-|Prince |Tour 100 |G3 | 305g (unstrung spec) | Technifibre Biphase X-one 1.30 23kg |
+|Prince |Tour Pro 100 |G3 | 305g (unstrung spec), 322 strung with leather grip | Technifibre Biphase X-one 1.30 23kg | Has head leather grip, replace |
 |Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut |  
 |Head | Speed 100 | G2? | 315g (unstrung spec | ? |  
 |Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg |  
