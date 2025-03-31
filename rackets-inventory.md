@@ -48,7 +48,9 @@ Legacy Inventory
 |Prince| Powerflex 90| G? |
 |Prince| Precision 95 | G? |
 |Prince| Precision 95 | G? |
-|Wilson| Ultra 95 Kevlar | G? | ? | ? | Broken Frame |
+|Wilson| Ultra Series 95 Tapered Beam Kevlar | G4 | 347g Strung with Overgrip | Syn Gut | Broken Frame, Grommets need replacing |
+|Wilson| Graphite Aggressor 95 | G3 | ? | |
+|Wilson| Graphite Aggressor 95 | G2 | ? | |
 
 
 Buy List
