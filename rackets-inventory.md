@@ -10,8 +10,8 @@ Current Inventory
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | 
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
-|Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revolve |
-|Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revovle |
+|Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revolve Spin 16 |
+|Wilson| Blade 98 18x20 v5 Green | G2 | 304g | Wilson Revovle 16/17 |
 |Wilson| Blade 98 16x18 Amplifeel Spin Effect | G3 | 294g | Unknown Hybrid |
 |Wilson| Blade 100 v8 | G3 | 300g | MSV Focus Hex 23kg |
 |Wilson| Blade 100 v8 | G3 | 300g | Prince Tour 23kg |
@@ -43,13 +43,12 @@ Legacy Inventory
 | Brand | Model | Grip Size | Weight | Stringing | Remarks | 
 | ----- | ----- | --------- | ------ | --------- | ------- |
 |Rossignol| F250 | G5 | 371g strung with overgrip | Syn Gut Sufix Toplon I  16x18| Broken Frame |
-|Rossignol| F150 | G3 |349g strung with overgrip | ? | Broken Frame |
 |Rossignol| F340 Kevlar | G3 | 362g strung with leathergrip | ? | ? |
 |Rossignol| F340 Kevlar | G4-G5 | 357g strung with leathergrip | ? | ? |
-|Rossignol | F200 Grey | G5 | 378gr strung with leather grip | Syn Gut 16 x 17 |
-|Rossignol | F200 Blue | G4 | 348gr strung with unknown grip | Syn Gut 16 x 17. |
-|Rossignol | F200 White | G5 | 377gr strung with leather grip | Syn Gut 16 x 17. |  
-|Lacoste | Open 340 | G3 | 353gr strung with leather grip | Syn Gut | 
+|Rossignol| F200 Grey | G5 | 378gr strung with leather grip | Syn Gut 16 x 17 |
+|Rossignol| F200 Blue | G4 | 348gr strung with unknown grip | Syn Gut 16 x 17. |
+|Rossignol| F200 White | G5 | 377gr strung with leather grip | Syn Gut 16 x 17. |  
+|Lacoste| Open 340 | G3 | 353gr strung with leather grip | Syn Gut | 
 |Prince| Graphite Pro Series 90 | G3 | 350g strung with overgrip | Syn Gut | |
 |Prince| Graphite Powerflex 90| G5 | 332g strung with overgrip | Syn Gut | |
 |Prince| Precision Graphite 640PL 95  | G4 | 361g Strung with Overgrip | 16x20 Unknown Black Poly | 
@@ -65,7 +64,8 @@ Outgoing Inventory
 
 | Brand | Model | Grip Size | Weight | Stringing | Remarks | 
 | ----- | ----- | --------- | ------ | --------- | ------- |
-| Wilson| Sting 100 | G3 | 326 strung with overgrip | Syn Gut | Sell candidate | 
+| Wilson| Sting 100 | G3 | 326 strung with overgrip | Syn Gut | Sell candidate |
+|Rossignol| F150 | G3 |349g strung with overgrip | ? | Sell Candidate |
 
 Buy List
 ---------
