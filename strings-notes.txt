@@ -20,3 +20,5 @@ babolat origin
 tf razor soft
 tf red code
 tf ice code
+
+dyrex hexablast
