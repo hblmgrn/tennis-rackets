@@ -7,8 +7,6 @@ Current Inventory
 |Wilson | Six One 95 Amplifeel | G3 | 332 g unstrung spec |  16x18 Wilson Sensation 16 | Probably needs restringing | **Add Leather Grip**
 |Wilson | Six One Tour 90 BLX 2010 | G3 | 339g (unstrung spec) | Hybrid: Mains: Luxilon M2 17 Cross: Technifibre Promix 17 |
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing
-|Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing
-|Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg | **Add Leather Grip**
 |Wilson| Blade 98 18x20 v5 Green | **G2** | 304g | Wilson Revolve Spin 16 | **Increase handle size** **Add Leather Grip** 
 |Wilson| Blade 98 18x20 v5 Green | **G2** | 304g | Wilson Revovle 16/17 | **Increase handle size** **Add Leather Grip**
@@ -26,12 +24,8 @@ Current Inventory
 |Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | Add Leather Grip + Probably needs restringing | 
 |Head | Prestige Tour (660) 18x19 | **G2-G3** | 330g strung without base grip | Kirschbaum | **Need to repair/replace handle**, **Grommet needs replacement** restring tighter next time **Add Leather Grip** | 
 |Head | Gravity MP | G3 | 295g unstrung spec | Weiss Cannon Turbo Twist 22-23kg | **Needs overgrip** **Add Leather Grip** |
-|Prince |Tour Pro 100 |G3 | 305g (unstrung spec), 322 strung with leather grip | Technifibre Biphase X-one 1.30 23kg | **Has head leather grip, replace** |
-|Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut | Needs restringing
 |Prince | Phantom 93 | **G4** | 330g (unstrung spec | Babolat Pro Hurricane 1.20/18 22kg | **Reduce Handle Size**
 |Dunlop | Cx 200 Tour 95 | **G2** | 315g unstrung spec | 18x20 MSV Co Focus 1.23 | Increase Handle Size  
-|Dunlop | Biomimetic 300 | G3 | 332g strung with overgrip | Dunlop silk 1.30 Syn Gut 18x20 | Frame very good condition, restring |  
-|Dunlop | Revelation Pro Midplus | **G2-G3** | 335g strung with overgrip | 16x20 Pacific unitec syn gut | **Unknown Handle Size** Frame good condition, restring| 
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow | **Restrin?**  **Add Leather Grip** |
 |Babolat | Pure Storm Tour 98 | G3 | 320g (unstrung spec) | 16x20 TF Biphase X-one 1.30 50lbs **Add Leather Grip** |  
 |Babolat| Pure Drive Tour| G3 | 315g | Solinco Tour Bite Soft 21kg | Restring **Add Leather Grip** |
@@ -66,6 +60,12 @@ Outgoing Inventory
 | ----- | ----- | --------- | ------ | --------- | ------- |
 |Wilson| Sting 100 | G3 | 326 strung with overgrip | Syn Gut | Sell candidate |
 |Rossignol| F150 | G3 |349g strung with overgrip | ? | Sell Candidate |
+|Dunlop | Biomimetic 300 | G3 | 332g strung with overgrip | Dunlop silk 1.30 Syn Gut 18x20 | Frame very good condition, restring |  
+|Dunlop | Revelation Pro Midplus | **G2-G3** | 335g strung with overgrip | 16x20 Pacific unitec syn gut | **Unknown Handle Size** Frame good condition, restring|
+|Prince |Tour Pro 100 |G3 | 305g (unstrung spec), 322 strung with leather grip | Technifibre Biphase X-one 1.30 23kg | **Has head leather grip, replace** |
+|Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut | Needs restringing
+|Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing
+|Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing 
 
 Buy List
 ---------
