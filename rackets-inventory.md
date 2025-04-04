@@ -10,8 +10,8 @@ Current Inventory
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing
 |Wilson | Six One Tour 90 Amplifeel | G3 | 339g (unstrung spec) | Unknown | Probably needs restringing
 |Wilson| Blade 98 18x20 Amplifeel | G3 | 305g (unstrung spec) | Wilson Sensation 16 25kg |
-|Wilson| Blade 98 18x20 v5 Green | *G2* | 304g | Wilson Revolve Spin 16 | **Increase handle size** 
-|Wilson| Blade 98 18x20 v5 Green | *G2* | 304g | Wilson Revovle 16/17 | **Increase handle size**
+|Wilson| Blade 98 18x20 v5 Green | **G2** | 304g | Wilson Revolve Spin 16 | **Increase handle size** 
+|Wilson| Blade 98 18x20 v5 Green | **G2** | 304g | Wilson Revovle 16/17 | **Increase handle size**
 |Wilson| Blade 98 16x18 Amplifeel Spin Effect | G3 | 294g | Unknown Hybrid |
 |Wilson| Blade 100 v8 | G3 | 300g | MSV Focus Hex 23kg |
 |Wilson| Blade 100 v8 | G3 | 300g | Prince Tour XS 23kg |
