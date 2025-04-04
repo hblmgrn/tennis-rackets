@@ -21,10 +21,10 @@ Current Inventory
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
 |Wilson |Pro Open 100 (Blx 2012 matte) | G3 | 299 (unstring spec) | Yonex PTG Strike 1.25 22.5kb |
 |Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg | **Reduce handle size**
-|Head | Speed 100 Pro Youtek | G3 | 315g (unstrung spec) | 18x20 unknown yellow poly | **No Replacement Grip** **TK82S #3 **  **Needs to be restringed!** |  
-|Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg | Probably needs restringing
-|Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | Probably needs restringing | 
-|Head | Prestige Tour (660) 18x19 | **G2-G3** | 330g strung without base grip | Kirschbaum | **Need to repair/replace handle**, restring tighter next time | 
+|Head | Speed 100 Pro Youtek | G3 | 315g (unstrung spec) | 18x20 unknown yellow poly | **No Replacement Grip** **TK82S #3**  **Needs to be restringed!** Add Leather Grip |  
+|Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg | Add Leather Grip  + Probably needs restringing
+|Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | Add Leather Grip + Probably needs restringing | 
+|Head | Prestige Tour (660) 18x19 | **G2-G3** | 330g strung without base grip | Kirschbaum | **Need to repair/replace handle**, **Grommet needs replacement** restring tighter next time | 
 |Head | Gravity MP | G3 | 295g unstrung spec | Weiss Cannon Turbo Twist 22-23kg | **Needs overgrip** |
 |Prince |Tour Pro 100 |G3 | 305g (unstrung spec), 322 strung with leather grip | Technifibre Biphase X-one 1.30 23kg | **Has head leather grip, replace** |
 |Prince |Rebel 95 EXO3 18x20| G3 | 330g (unstrung spec) | Prince Syn Gut | Needs restringing
