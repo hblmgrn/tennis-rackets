@@ -15,7 +15,7 @@ Current Inventory
 |Wilson| Blade 98 16x18 Amplifeel Spin Effect | G3 | 294g | Unknown Hybrid |
 |Wilson| Blade 100 v8 | G3 | 300g | MSV Focus Hex 23kg |
 |Wilson| Blade 100 v8 | G3 | 300g | Prince Tour XS 23kg |
-|Wilson| Pro Staff RF97 | G3 | 315g | Pure Rush 20-21kg | Needs to be strung tighter
+|Wilson| Pro Staff RF97 | G3 | 315g | Pure Rush 1.23 20-21kg | Needs to be strung tighter
 |Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast | Very heavy
 |Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast | Very heavy
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
