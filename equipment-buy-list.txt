@@ -2,4 +2,6 @@
 Item                                        Quantity
 ----------------------------------------------------
 Wilson ButtCap for Blade 98 v5 Size 3        2
+Head Pallet TK82 Size 3 for Prestige 660     1
+Head ButtCap for TK82 Size 3  660            1
 
