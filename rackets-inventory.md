@@ -34,8 +34,8 @@ Current Inventory
 |Dunlop | Revelation Pro Midplus | **G2-G3** | 335g strung with overgrip | 16x20 Pacific unitec syn gut | **Unknown Handle Size** Frame good condition, restring| 
 |Babolat| Pure Control | G3 | 330g | yonex ptpg 1.25 Yellow | **Restrin?** |
 |Babolat | Pure Storm Tour 98 | G3 | 320g (unstrung spec) | 16x20 TF Biphase X-one 1.30 50lbs |  
-|Babolat|Pure Drive Tour| G3 | 315g | Solinco Tour Bite Soft 21kg | Restring
-|Technifibre | 315 Limited | G3 | 315g (unstrung spec) | 18x20 Alu Power (16/17) | Restring? 
+|Babolat| Pure Drive Tour| G3 | 315g | Solinco Tour Bite Soft 21kg | Restring **Add Leather Grip** |
+|Technifibre | 315 Limited | G3 | 315g (unstrung spec) | 18x20 Alu Power (16/17) | Restring? **Add Leather Grip** | 
 
 Legacy Inventory
 -----------------
