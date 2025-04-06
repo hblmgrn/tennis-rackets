@@ -18,7 +18,7 @@ Current Inventory
 |Wilson| Pro Staff RF Autograph 97 | G3 | 340g | Babolat RPM Blast | Very heavy
 |Wilson |Pro Open 100 (Blx 2010 gloosy) | G3 | 299g (unstring spec) | RPM Blast 125/17 21-22kg |
 |Wilson |Pro Open 100 (Blx 2012 matte) | G3 | 299 (unstring spec) | Yonex PTG Strike 1.25 22.5kb | **Add Leather Grip**
-|Head |Pro Tour 2.0 | G4 | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg | **Reduce handle size** **Add Leather Grip**
+|Head |Pro Tour 2.0 | **G4** | 325g (unstrung spec) | Factory Lynx 17 g Antracite 21-22kg | **Reduce handle size** **Add Leather Grip**
 |Head | Speed 100 Pro Youtek | G3 | 315g (unstrung spec) | 18x20 unknown yellow poly | **No Replacement Grip** **TK82S #3**  **Needs to be restringed!** Add Leather Grip |  
 |Head | Prestige Midplus 98 Microgel | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Unknown Multi Cross: Alu Power 1.25 21-22kg | Add Leather Grip  + Probably needs restringing
 |Head | Prestige Midplus 98 IG | G3 | 320g (unstrung spec) | 18x20 Hybrid Mains: Alu Power | Add Leather Grip + Probably needs restringing | 
