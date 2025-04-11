@@ -15,31 +15,30 @@
 
 ## Strings Shortlist
 
---------------------------------------------------
-| String | Price Set | Price Roll | Type | Remarks 
----------------------------------------------------
-| Kirschbaum pro line 2 | 0 |
 
-Technifibre Triax  
-iso speed cream  
-mantis synthetic comfort  
-Gamma Marathon 15  
-solinco revolution  
-solinco *  
-Ashaway MonoGut ZX 16  
-ytex pro tour blue  
-Restring Zero  
-Solinco HyperG  
-Pro Hurricane  
-gamma jet  
-Head Lynx 17 Anthracite (Factory string in Head Pro Tour 2.0)  
-RS Lyon (Highest gauge available)  
-babolat origin  
-tf razor soft  
-tf red code  
-tf ice code  
-dyrex hexablast  
-Dyreex Cube Flash 1.20  
+| String | Price Set | Price Roll | Type | Remarks 
+| ------ | --------- | ---------- | ---- | ------ | 
+| Kirschbaum pro line 2 | 0 |
+| Technifibre Triax | 
+| iso speed cream  |
+| mantis synthetic comfort |  
+| Gamma Marathon 15 | 
+| solinco revolution | 
+| solinco * |  
+| Ashaway MonoGut ZX 16 | 
+| ytex pro tour blue |
+| Restring Zero | 
+| Solinco HyperG | 
+| Pro Hurricane | 
+| gamma jet | 
+| Head Lynx 17 Anthracite (Factory string in Head Pro Tour 2.0) |  
+| RS Lyon (Highest gauge available) | 
+| babolat origin | 
+| tf razor soft |
+| tf red code | 
+| tf ice code | 
+| dyrex hexablast |  
+| Dyreex Cube Flash 1.20 | 
 
 # Tennis Talk Ramblings
 
