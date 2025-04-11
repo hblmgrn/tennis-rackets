@@ -56,10 +56,10 @@ strung with **Weiss Cannon Black 5 Edge**
 **Dyreex Super Tour 1.25: 4G clone**, immediate response, tons of control, excellent for flat hitters, durable and the by far the best price/performance ratio  
 **Oehms Alu Pearl Rough 1.21**: 80%-Alu Power-feel clone with better durability, super cheap, I would definitely buy a reel for a part-time stringing business  
 **Stringlab Orbitour Gold / Isospeed Rexxxer (felt identical)** 1.24/1.28: both goldmine strings, immediate response, liked the Gold better for the looks of it!  
-**Stringlab Orbitour Silver 1.15/1.36**: rubbery/buttery texture, noticable dwell-time, super dialed-in, great on 16*20  
+**Stringlab Orbitour Silver 1.15/1.36**: rubbery/buttery texture, noticable dwell-time, super dialed-in, great on 16x20  
 **L-Tec Premium Celeste 1.20**: 85-90% Alu Power feel, larger sweet-spot, performed much above average in everything  
 **Topspin Cyber Flash 1.25**: above average in every aspect, uncomfortable when playing with medium intensity, needs to be played at a fast pace  
-**irschbaum Xplosive Speed 1.23**: comfortable, I liked it a lot on the Tecnifibre TF40 315 16*19  
+**Kirschbaum Xplosive Speed 1.23**: comfortable, I liked it a lot on the Tecnifibre TF40 315 16*19  
 **Kirschbaum Max Power 1.20**: buttery feel, low power, 1st string used in a 98 sq inch will always be a great memory!  
 **String Kong Orango Raw 1.28**: comforable, slick and with very nice access top-spin  
 **Luxilon 4G 1.25**: first-hand pro gear experience, ideal for tight string patterns and small head sizes (no string movement), just excellent on flat hitting and backhand slices, durable, not in my top 10 because of its high cost...  
