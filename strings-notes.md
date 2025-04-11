@@ -50,7 +50,7 @@ and **TB 1.35mm** @ 40lbs a close 2nd but 1st by my colleges and customers.
 strung with **Weiss Cannon Black 5 Edge**  
 
 
-**Honorable mention to my Top-10 strings so far**
+### Honorable mention to my Top-10 strings so far
 
 **L-Tec Premium Meteor Pro 1.25**: played great with different balls, different levels of intensity and all shorts of hitting partners  
 **Dyreex Super Tour 1.25: 4G clone**, immediate response, tons of control, excellent for flat hitters, durable and the by far the best price/performance ratio  
