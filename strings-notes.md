@@ -15,7 +15,11 @@
 
 ## Strings Shortlist
 
-Kirschbaum pro line 2  
+--------------------------------------------------
+| String | Price Set | Price Roll | Type | Remarks 
+---------------------------------------------------
+| Kirschbaum pro line 2 | 0 |
+
 Technifibre Triax  
 iso speed cream  
 mantis synthetic comfort  
