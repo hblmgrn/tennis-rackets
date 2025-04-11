@@ -1,48 +1,53 @@
-Tennis Warehouse Europe: Shipping 10 EUR - Free shipping Sweden above 39 EUR
-Tennisman.de : Shipping 16,90 EUR
-Tennispro.eu : Shipping 10 EUR, Free shipping Sweden above 99EUR
-Tennispoint.se : 69,- SEK * fri frakt vid köp över 499,-SEK
-tw-gt.de: Shipping 15.50 EUR
+# General Sales Information
 
+**Tennis Warehouse Europe**: Shipping 10 EUR Free shipping Sweden above 39 EUR  
+**Tennisman.de** : Shipping 16,90 EUR  
+**Tennispro.eu** : Shipping 10 EUR, Free shipping Sweden above 99EUR  
+**Tennispoint.se** : 69,- SEK * fri frakt vid köp över 499,-SEK  
+**tw-gt.de**: Shipping 15.50 EUR  
 
-technifibre promix replace by duramix
-luxilon m2
+## Old Strings Information
 
-Kirschbaum pro line 2
-Technifibre Triax
-iso speed cream
-mantis synthetic comfort
-Gamma Marathon 15
-solinco revolution
-solinco *
-Ashaway MonoGut ZX 16
-ytex pro tour blue
+technifibre promix: Replaced by duramix   
+luxilon m2: Replaced by Element but they seems very different  
+Pro Hurricane:  
+Babolat Origin:  
 
+## Strings Shortlist
 
-Restring Zero
-Solinco HyperG
-Pro Hurricane
+Kirschbaum pro line 2  
+Technifibre Triax  
+iso speed cream  
+mantis synthetic comfort  
+Gamma Marathon 15  
+solinco revolution  
+solinco *  
+Ashaway MonoGut ZX 16  
+ytex pro tour blue  
+Restring Zero  
+Solinco HyperG  
+Pro Hurricane  
+gamma jet  
+Head Lynx 17 Anthracite (Factory string in Head Pro Tour 2.0)  
+RS Lyon (Highest gauge available)  
+babolat origin  
+tf razor soft  
+tf red code  
+tf ice code  
+dyrex hexablast  
+Dyreex Cube Flash 1.20  
 
-gamma jet
+# Tennis Talk Ramblings
+
+## Thread about Hybrids: 
 
 The Combo I enjoyed the most with bigger frames for polys with crazy feel for years was
-Weiss Cannon UC @ 40lbs w/ Scorpion/PP Concept (same thing) 1.23mm X @ 35lbs
-and TB 1.35mm @ 40lbs a close 2nd but 1st by my colleges and customers.
+**Weiss Cannon UC** @ 40lbs w/ **Scorpion/PP Concept** (same thing) 1.23mm X @ 35lbs
+and **TB 1.35mm** @ 40lbs a close 2nd but 1st by my colleges and customers.
 
-Head Lynx 17 Anthracite (Factory string in Head Pro Tour 2.0)
-RS Lyon (Highest gauge available)
+**Kirschbaum Max Power 17g** @48lb. It's a perfect match for this racquet. I can take big   
 
-babolat origin
-tf razor soft
-tf red code
-tf ice code
-
-dyrex hexablast
-Dyreex Cube Flash 1.20
-
-Kirschbaum Max Power 17g @48lb. It's a perfect match for this racquet. I can take big 
-
-strung with Weiss Cannon Black 5 Edge
+strung with **Weiss Cannon Black 5 Edge**  
 
 
 **Honorable mention to my Top-10 strings so far**
