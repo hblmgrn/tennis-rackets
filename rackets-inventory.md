@@ -84,6 +84,19 @@ Fischer Vacuum Pro 98
 Yamaha Secret  
 Yonex Reigna  
 Yonex VCore  
-Yonex Percept  
+Yonex Percept 
+
+-----------------
+
+head pro tour 2.0 x 1
+head pt57a x 2
+head tour 600 x 2
+head tour 660 x 1
+head prestige microgel mp x 1
+head prestige ig mp x 1
+
+phantom 93 x 1
+phantom 97 x 2
+
 
 
