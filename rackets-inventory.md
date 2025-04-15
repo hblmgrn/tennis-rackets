@@ -88,15 +88,20 @@ Yonex Percept
 
 -----------------
 
-head pro tour 2.0 x 1
-head pt57a x 2
-head tour 600 x 2
-head tour 660 x 1
-head prestige microgel mp x 1
-head prestige ig mp x 1
+head pro tour 2.0           x 1  
+head pt57a                  x 2
+head tour 600               x 2
+head tour 660               x 1
+head prestige microgel mp   x 1
+head prestige ig mp         x 1
 
-phantom 93 x 1
-phantom 97 x 2
+phantom 93                  x 1
+phantom 97                  x 2
+
+babolat pure control 95     x 2
+babolat pure storm ltd      x 2
+
+babolat pure control tour   x 1 ?
 
 
 
