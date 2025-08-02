@@ -5,6 +5,9 @@
 **Tennispro.eu** : Shipping 10 EUR, Free shipping Sweden above 99EUR  
 **Tennispoint.se** : 69,- SEK * fri frakt vid köp över 499,-SEK  
 **tw-gt.de**: Shipping 15.50 EUR  
+**www.tennistown.de** : 10,00 €  
+**kirschbaum.de** : 15 Euro  
+**msv tennis**  EUROPA	 € 9,90	 versandkostenfrei ab € 120,00 Einkaufswert  
 
 ## Old Strings Information
 
@@ -15,32 +18,72 @@
 
 ## Strings Shortlist
 
+### Poly
 
-| String | Price Set | Price Roll | Type | Remarks 
-| ------ | --------- | ---------- | ---- | ------ | 
-| Kirschbaum pro line 2 | 0 |
-| Technifibre Triax | 
-| iso speed cream  |
-| mantis synthetic comfort |  
-| Gamma Marathon 15 | 
-| solinco revolution | 
-| solinco * |  
-| Ashaway MonoGut ZX 16 | 
-| ytex pro tour blue |
-| Restring Zero | 
-| Solinco HyperG | 
-| Pro Hurricane | 
-| gamma jet | 
+| String                      | Price Set | Price Roll | Type    | Remarks                             | 
+| --------------------------- | --------- | ---------- | ------- | ----------------------------------- | 
+| Kirschbaum pro line 2       | 7-9 EUR   |            |         | round co-poly, low power 210        |
+| iso speed cream             | 10-11 EUR |            |         | Soft, cross                         |
+| solinco revolution          | 8-10 EUR  |            |         |  hexagonally shaped co-poly 215     | 
+| Pro Hurricane               |
+| ytex pro tour blue          | 10 EUR    | 
+| Restring Zero               | 14 USD    | 
+| Solinco HyperG              |                     
+| gamma jet                   |
 | Head Lynx 17 Anthracite (Factory string in Head Pro Tour 2.0) |  
 | RS Lyon (Highest gauge available) | 
-| babolat origin | 
 | tf razor soft |
 | tf red code | 
-| tf ice code | 
+| tf ice code |
 | dyrex hexablast |  
 | Dyreex Cube Flash 1.20 | 
 
+### Multi
+
+| String | Price Set | Price Roll | Type | Remarks 
+| ------ | --------- | ---------- | ---- | ------ |
+| Technifibre Triax | 
+| babolat origin | 
+
+### Syngut
+
+| String | Price Set | Price Roll | Type | Remarks 
+| ------ | --------- | ---------- | ---- | ------ |
+| mantis synthetic comfort |  
+| Gamma Marathon 15 | 
+| Pacific Nyltec |
+| Ashaway Syn Gut | 
+| Kirschbaum Syn Gut |
+| Ashaway MonoGut ZX 16 | 
+
+### Unsorted
+
+| String | Price Set | Price Roll | Type | Remarks 
+| ------ | --------- | ---------- | ---- | ------ | 
+
+
+
+
+
+
+
+## Setups To Try
+
+| Mains                   | Crosses                      | Remarks                            |
+|-------------------------| ---------------------------- | -----------------------------------|
+| WeissCannon Ultra Cable | Scorpion/PP Concept          |                                    |
+| 
+
+
 # Tennis Talk Ramblings
+
+Oehms Alu Pearl Rough
+Dyreex Super Tour
+Topspin Cyber Flash
+Kirschbaum Max Power
+L-Tec Premium Celeste
+Kirschbaum Xplosive Speed
+L-Tec Premium Meteor Pro 
 
 ### Thread about Hybrids: 
 
