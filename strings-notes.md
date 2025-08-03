@@ -11,9 +11,9 @@
 
 ## Old Strings Information
 
-**technifibre promix**: Replaced by duramix   
-**luxilon m2**: Replaced by Element but they seems very different  
-**Pro Hurricane**:  
+**Technifibre Promix**: Replaced by duramix   
+**Luxilon M2 Pro**: Replaced by Element but they seems very different  
+**Babolat Pro Hurricane**:  
 **Babolat Origin**:  
 
 ## Strings Shortlist
