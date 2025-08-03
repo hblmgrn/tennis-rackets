@@ -4,10 +4,10 @@
 **Tennisman.de** : Shipping 16,90 EUR  
 **Tennispro.eu** : Shipping 10 EUR, Free shipping Sweden above 99EUR  
 **Tennispoint.se** : 69,- SEK * fri frakt vid köp över 499,-SEK  
-**tw-gt.de**: Shipping 15.50 EUR  
-**www.tennistown.de** : 10,00 €  
-**kirschbaum.de** : 15 Euro  
-**msv tennis**  EUROPA	 € 9,90	 versandkostenfrei ab € 120,00 Einkaufswert  
+**Tw-gt.de**: Shipping 15.50 EUR  
+**Www.tennistown.de** : 10,00 €  
+**Kirschbaum.de** : 15 Euro  
+**MSV tennis**  EUROPA	 € 9,90	 versandkostenfrei ab € 120,00 Einkaufswert  
 
 ## Old Strings Information
 
