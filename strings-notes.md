@@ -24,7 +24,7 @@
 | --------------------------- | --------- | ---------- | ------- | ----------------------------------- | 
 | Kirschbaum pro line 2       | 7-9 EUR   |            |         | round co-poly, low power 210        |
 | iso speed cream             | 10-11 EUR |            |         | Soft, cross                         |
-| solinco revolution          | 8-10 EUR  |            |         |  hexagonally shaped co-poly 215     | 
+| solinco revolution          | 8-10 EUR  |            |         | Hexagonally shaped co-poly 215      | 
 | Pro Hurricane               | N/A       |            |         | Obsolote                            |
 | ytex pro tour blue          | 10 EUR    |            |         |                                     | 
 | Restring Zero               | 14 USD    |            |         |                                     | 
@@ -48,7 +48,10 @@
 | Kirschbaum Xplosive Speed   | 15 EUR    |            |         | 5-sided                             |
 | L-Tec Premium Meteor Pro    | 19 EUR    |            |         | Unique Wave Shape                   |
 | Weiss Cannon Black 5 Edge   | 8 EUR     |            |         | 5-sided                             |
-| Luxilon 4G                  | 15-20 EUR |            |         | round                               | 
+| Luxilon 4G                  | 15-20 EUR |            |         | Round                               |
+| Yonex Poly Tour Strike      | 15 EUR    |            |         | Round                               |
+| Yonex Poly Tour Fire        |           |            |         |                                     |
+| Yonex Poly Tour Rev         |           |            |         |                                     |
 
 
 ### Multi
