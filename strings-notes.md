@@ -53,6 +53,7 @@
 | Yonex Poly Tour Strike      | 15 EUR    |            |         | Round                               |
 | Yonex Poly Tour Fire        |           |            |         |                                     |
 | Yonex Poly Tour Rev         |           |            |         |                                     |
+| Pro's Pro Blackout          | 3 EUR     |            |         |                                     |
 
 
 ### Multi
