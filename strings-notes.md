@@ -25,41 +25,56 @@
 | Kirschbaum pro line 2       | 7-9 EUR   |            |         | round co-poly, low power 210        |
 | iso speed cream             | 10-11 EUR |            |         | Soft, cross                         |
 | solinco revolution          | 8-10 EUR  |            |         |  hexagonally shaped co-poly 215     | 
-| Pro Hurricane               |
-| ytex pro tour blue          | 10 EUR    | 
-| Restring Zero               | 14 USD    | 
-| Solinco HyperG              |                     
-| gamma jet                   |
-| Head Lynx 17 Anthracite (Factory string in Head Pro Tour 2.0) |  
-| RS Lyon (Highest gauge available) | 
-| tf razor soft |
-| tf red code | 
-| tf ice code |
-| dyrex hexablast |  
-| Dyreex Cube Flash 1.20 | 
+| Pro Hurricane               |           |            |         | Obsolote                            |
+| ytex pro tour blue          | 10 EUR    |            |         |                                     | 
+| Restring Zero               | 14 USD    |            |         |                                     | 
+| Solinco HyperG              |           |            |         |                                     |         
+| gamma jet                   |           |            |         |                                     |
+| Head Lynx 17 Anthracite ()  |           |            |         | Factory string in Head Pro Tour 2.0 |  
+| RS Lyon                     |           |            |         |                                     | 
+| tf razor soft               |           |            |         |                                     |
+| tf red code                 |           |            |         |                                     |          
+| tf ice code                 |           |            |         |                                     |
+| dyrex hexablast             |           |            |         |                                     |   
+| Dyreex Cube Flash           |           |            |         |                                     | 
+| Oehms Alu Pearl Rough       |           |            |         |                                     | 
+| Luxilon Big Banger Orig     |           |            |         |                                     | 
+| Solinco Tour Bite           |           |            |         |                                     |
+| Dyreex Super Tour           |           |            |         |                                     |
+| Kirschbaum Super Smash O    | 6-7 EUR   |            |         | Round                               |
+| Topspin Cyber Flash         | 5-6 EUR   |            |         | Round                               |
+| Kirschbaum Max Power        | 10-12 EUR |            |         | Round                               |
+| L-Tec Premium Celeste       | 10-12 EUR |            |         |                                     |
+| Kirschbaum Xplosive Speed   |           |            |         |                                     |
+| L-Tec Premium Meteor Pro
+| Weiss Cannon Black 5 Edge
+| Luxilon 4G
+
 
 ### Multi
 
-| String | Price Set | Price Roll | Type | Remarks 
-| ------ | --------- | ---------- | ---- | ------ |
-| Technifibre Triax | 
-| babolat origin | 
+| String                     | Price Set | Price Roll  | Type    | Remarks                             | 
+| -------------------------- | --------- | ----------- | ------- | ----------------------------------- |
+| Technifibre Triax          |           |             |         |                                     | 
+| Babolat Origin             |           |             |         | Obsolete                            |
 
 ### Syngut
 
-| String | Price Set | Price Roll | Type | Remarks 
-| ------ | --------- | ---------- | ---- | ------ |
-| mantis synthetic comfort |  
-| Gamma Marathon 15 | 
-| Pacific Nyltec |
-| Ashaway Syn Gut | 
-| Kirschbaum Syn Gut |
-| Ashaway MonoGut ZX 16 | 
+| String                     | Price Set | Price Roll  | Type    | Remarks                             | 
+| -------------------------- | --------- | ----------- | ------- | ----------------------------------- |
+| mantis synthetic comfort   |           |             |         |                                     | 
+| Gamma Marathon 15          |           |             |         |                                     |
+| Pacific Nyltec             |           |             |         |                                     |
+| Ashaway Syn Gut            |           |             |         |                                     | 
+| Kirschbaum Syn Gut         |           |             |         |                                     |
+| Ashaway MonoGut ZX         |           |             |         |                                     |
+| Forten Sweet               |           |             |         |                                     | 
+| Gosen Micro                |           |             |         |                                     | 
 
 ### Unsorted
 
-| String | Price Set | Price Roll | Type | Remarks 
-| ------ | --------- | ---------- | ---- | ------ | 
+| String                     | Price Set | Price Roll  | Type    | Remarks                              |
+| -------------------------- | --------- | ----------- | ------- | -------------------------------------| 
 
 
 
@@ -72,18 +87,18 @@
 | Mains                   | Crosses                      | Remarks                            |
 |-------------------------| ---------------------------- | -----------------------------------|
 | WeissCannon Ultra Cable | Scorpion/PP Concept          |                                    |
-| 
+
 
 
 # Tennis Talk Ramblings
 
-Oehms Alu Pearl Rough
-Dyreex Super Tour
-Topspin Cyber Flash
-Kirschbaum Max Power
-L-Tec Premium Celeste
-Kirschbaum Xplosive Speed
-L-Tec Premium Meteor Pro 
+
+
+
+
+
+
+
 
 ### Thread about Hybrids: 
 
