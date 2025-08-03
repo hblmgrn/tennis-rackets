@@ -25,51 +25,51 @@
 | Kirschbaum pro line 2       | 7-9 EUR   |            |         | round co-poly, low power 210        |
 | iso speed cream             | 10-11 EUR |            |         | Soft, cross                         |
 | solinco revolution          | 8-10 EUR  |            |         |  hexagonally shaped co-poly 215     | 
-| Pro Hurricane               |           |            |         | Obsolote                            |
+| Pro Hurricane               | N/A       |            |         | Obsolote                            |
 | ytex pro tour blue          | 10 EUR    |            |         |                                     | 
 | Restring Zero               | 14 USD    |            |         |                                     | 
-| Solinco HyperG              |           |            |         |                                     |         
-| gamma jet                   |           |            |         |                                     |
-| Head Lynx 17 Anthracite ()  |           |            |         | Factory string in Head Pro Tour 2.0 |  
-| RS Lyon                     |           |            |         |                                     | 
-| tf razor soft               |           |            |         |                                     |
-| tf red code                 |           |            |         |                                     |          
-| tf ice code                 |           |            |         |                                     |
-| dyrex hexablast             |           |            |         |                                     |   
-| Dyreex Cube Flash           |           |            |         |                                     | 
-| Oehms Alu Pearl Rough       |           |            |         |                                     | 
-| Luxilon Big Banger Orig     |           |            |         |                                     | 
-| Solinco Tour Bite           |           |            |         |                                     |
-| Dyreex Super Tour           |           |            |         |                                     |
+| Solinco HyperG              | 10 EUR    |            |         |                                     |         
+| gamma jet                   | 7 EUR     |            |         |                                     |
+| Head Lynx 17 Anthracite     | 8-10 EUR  |            |         | Factory string in Head Pro Tour 2.0 |  
+| RS Lyon                     | 15 EUR    |            |         |                                     | 
+| tf razor soft               | 15 EUR    |            |         |                                     |
+| tf red code                 | 10 EUR    |            |         |                                     |          
+| tf ice code                 | 10 EUR    |            |         |                                     |
+| dyrex hexablast             | 6-7 EUR   |            |         | Six-sided                           |   
+| Dyreex Cube Flash           | 6-7 EUR   |            |         | Four-sided                          | 
+| Oehms Alu Pearl Rough       | 5-6 EUR   |            |         | Structured Surface                  | 
+| Luxilon Big Banger Orig     | 15 EUR    |            |         | Round, firm                         | 
+| Solinco Tour Bite           | 10 EUR    |            |         | 4-sided                             |
+| Dyreex Super Tour           | 6-7 EUR   |            |         | Round                               |
 | Kirschbaum Super Smash O    | 6-7 EUR   |            |         | Round                               |
 | Topspin Cyber Flash         | 5-6 EUR   |            |         | Round                               |
 | Kirschbaum Max Power        | 10-12 EUR |            |         | Round                               |
 | L-Tec Premium Celeste       | 10-12 EUR |            |         |                                     |
-| Kirschbaum Xplosive Speed   |           |            |         |                                     |
-| L-Tec Premium Meteor Pro
-| Weiss Cannon Black 5 Edge
-| Luxilon 4G
+| Kirschbaum Xplosive Speed   | 15 EUR    |            |         | 5-sided                             |
+| L-Tec Premium Meteor Pro    | 19 EUR    |            |         | Unique Wave Shape                   |
+| Weiss Cannon Black 5 Edge   | 8 EUR     |            |         | 5-sided                             |
+| Luxilon 4G                  | 15-20 EUR |            |         | round                               | 
 
 
 ### Multi
 
 | String                     | Price Set | Price Roll  | Type    | Remarks                             | 
 | -------------------------- | --------- | ----------- | ------- | ----------------------------------- |
-| Technifibre Triax          |           |             |         |                                     | 
-| Babolat Origin             |           |             |         | Obsolete                            |
+| Technifibre Triax          | 15 EUR    |             |         |                                     | 
+| Babolat Origin             | N/A       |             |         | Obsolete                            |
 
 ### Syngut
 
 | String                     | Price Set | Price Roll  | Type    | Remarks                             | 
 | -------------------------- | --------- | ----------- | ------- | ----------------------------------- |
-| mantis synthetic comfort   |           |             |         |                                     | 
+| mantis synthetic comfort   | 5-8 EUR   |             |         |                                     | 
 | Gamma Marathon 15          |           |             |         |                                     |
 | Pacific Nyltec             |           |             |         |                                     |
-| Ashaway Syn Gut            |           |             |         |                                     | 
-| Kirschbaum Syn Gut         |           |             |         |                                     |
-| Ashaway MonoGut ZX         |           |             |         |                                     |
+| Ashaway Syn Gut            | 5 EUR     |             |         |                                     | 
+| Kirschbaum Syn Gut         | 5 EUR     |             |         |                                     |
+| Ashaway MonoGut ZX         | 15-20 EUR |             |         |                                     |
 | Forten Sweet               |           |             |         |                                     | 
-| Gosen Micro                |           |             |         |                                     | 
+| Gosen Micro                | 5-6 EUR   |             |         |                                     | 
 
 ### Unsorted
 
