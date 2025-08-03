@@ -7,8 +7,8 @@
 **Tw-gt.de**: Shipping 15.50 EUR  
 **Www.tennistown.de** : 10,00 €  
 **Kirschbaum.de** : 15 Euro  
-**MSV tennis**  EUROPA	 € 9,90	 versandkostenfrei ab € 120,00 Einkaufswert
-**https://www.pros-pro.com**
+**MSV tennis**  EUROPA	 € 9,90	 versandkostenfrei ab € 120,00 Einkaufswert  
+**https://www.pros-pro.com**  
 
 ## Old Strings Information
 
