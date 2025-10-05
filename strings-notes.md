@@ -8,7 +8,8 @@
 **Www.tennistown.de** : 10,00 €  
 **Kirschbaum.de** : 15 Euro  
 **MSV tennis**  EUROPA	 € 9,90	 versandkostenfrei ab € 120,00 Einkaufswert  
-**https://www.pros-pro.com**  
+**https://www.pros-pro.com** 
+**https://www.toalson.at/** Europe: € 19,99
 
 ## Old Strings Information
 
@@ -21,40 +22,42 @@
 
 ### Poly
 
-| String                      | Price Set | Price Roll | Type    | Remarks                             | 
-| --------------------------- | --------- | ---------- | ------- | ----------------------------------- | 
-| Kirschbaum pro line 2       | 7-9 EUR   |            |         | round co-poly, low power 210        |
-| iso speed cream             | 10-11 EUR |            |         | Soft, cross                         |
-| solinco revolution          | 8-10 EUR  |            |         | Hexagonally shaped co-poly 215      | 
-| Pro Hurricane               | N/A       |            |         | Obsolote                            |
-| ytex pro tour blue          | 10 EUR    |            |         |                                     | 
-| Restring Zero               | 14 USD    |            |         |                                     | 
-| Solinco HyperG              | 10 EUR    |            |         |                                     |         
-| gamma jet                   | 7 EUR     |            |         |                                     |
-| Head Lynx 17 Anthracite     | 8-10 EUR  |            |         | Factory string in Head Pro Tour 2.0 |  
-| RS Lyon                     | 15 EUR    |            |         |                                     | 
-| tf razor soft               | 15 EUR    |            |         |                                     |
-| tf red code                 | 10 EUR    |            |         |                                     |          
-| tf ice code                 | 10 EUR    |            |         |                                     |
-| dyrex hexablast             | 6-7 EUR   |            |         | Six-sided                           |   
-| Dyreex Cube Flash           | 6-7 EUR   |            |         | Four-sided                          | 
-| Oehms Alu Pearl Rough       | 5-6 EUR   |            |         | Structured Surface                  | 
-| Luxilon Big Banger Orig     | 15 EUR    |            |         | Round, firm                         | 
-| Solinco Tour Bite           | 10 EUR    |            |         | 4-sided                             |
-| Dyreex Super Tour           | 6-7 EUR   |            |         | Round                               |
-| Kirschbaum Super Smash O    | 6-7 EUR   |            |         | Round                               |
-| Topspin Cyber Flash         | 5-6 EUR   |            |         | Round                               |
-| Kirschbaum Max Power        | 10-12 EUR |            |         | Round                               |
-| L-Tec Premium Celeste       | 10-12 EUR |            |         |                                     |
-| Kirschbaum Xplosive Speed   | 15 EUR    |            |         | 5-sided                             |
-| L-Tec Premium Meteor Pro    | 19 EUR    |            |         | Unique Wave Shape                   |
-| Weiss Cannon Black 5 Edge   | 8 EUR     |            |         | 5-sided                             |
-| Luxilon 4G                  | 15-20 EUR |            |         | Round                               |
-| Yonex Poly Tour Strike      | 15 EUR    |            |         | Round                               |
-| Yonex Poly Tour Fire        |           |            |         |                                     |
-| Yonex Poly Tour Rev         |           |            |         |                                     |
-| Pro's Pro Blackout          | 3 EUR     |            |         |                                     |
-
+| String                      | Price Set | Price Roll | Type    | Remarks                             | Inventory | 
+| --------------------------- | --------- | ---------- | ------- | ----------------------------------- | --------- |
+| Kirschbaum pro line 2       | 7-9 EUR   |            |         | round co-poly, low power 210        | 0         |
+| iso speed cream             | 10-11 EUR |            |         | Soft, cross                         | 0         |
+| solinco revolution          | 8-10 EUR  |            |         | Hexagonally shaped co-poly 215      | 0         |
+| Pro Hurricane               | N/A       |            |         | Obsolote                            | 7 Sets    |
+| ytex pro tour blue          | 10 EUR    |            |         |                                     | 0         |
+| Restring Zero               | 14 USD    |            |         |                                     | 0         |
+| Solinco HyperG              | 10 EUR    |            |         |                                     | 0         |
+| gamma jet                   | 7 EUR     |            |         |                                     | 1 Set     |
+| Head Lynx 17 Anthracite     | 8-10 EUR  |            |         | Factory string in Head Pro Tour 2.0 | 1 Set     | 
+| RS Lyon                     | 15 EUR    |            |         |                                     | 0         |
+| tf razor soft               | 15 EUR    |            |         |                                     | 0         |
+| tf red code                 | 10 EUR    |            |         |                                     | 0         |
+| tf ice code                 | 10 EUR    |            |         |                                     | 1 Set     |
+| dyrex hexablast             | 6-7 EUR   |            |         | Six-sided                           | 0         |
+| Dyreex Cube Flash           | 6-7 EUR   |            |         | Four-sided                          | 0         |
+| Oehms Alu Pearl Rough       | 5-6 EUR   |            |         | Structured Surface                  | 0         |
+| Luxilon Big Banger Orig     | 15 EUR    |            |         | Round, firm                         | 0         | 
+| Solinco Tour Bite           | 10 EUR    |            |         | 4-sided                             | 0 (But stringed in 2 rackets @ 18 |
+| Dyreex Super Tour           | 6-7 EUR   |            |         | Round                               | 0          |
+| Kirschbaum Super Smash Ora  | 6-7 EUR   |            |         | Round                               | 0     |
+| Topspin Cyber Flash         | 5-6 EUR   |            |         | Round                               | 0     |
+| Kirschbaum Max Power        | 10-12 EUR |            |         | Round                               | 0     |
+| L-Tec Premium Celeste       | 10-12 EUR |            |         |                                     | 0     |
+| Kirschbaum Xplosive Speed   | 15 EUR    |            |         | 5-sided                             | 0     |
+| L-Tec Premium Meteor Pro    | 19 EUR    |            |         | Unique Wave Shape                   | 0     |
+| Weiss Cannon Black 5 Edge   | 8 EUR     |            |         | 5-sided                             | 0     |
+| Luxilon 4G                  | 15-20 EUR |            |         | Round                               | 0     |
+| Yonex Poly Tour Strike      | 15 EUR    |            |         | Round                               | 0     |
+| Yonex Poly Tour Fire        |           |            |         |                                     | 0     |
+| Yonex Poly Tour Rev         |           |            |         |                                     | 0     |
+| Pro's Pro Blackout          | 3 EUR     |            |         |                                     | 0     |
+| Signum Firestorm            | 7,20 EUR  |            |         |                                     | 1 Set |
+| Signum X-Perience           | 7,20 EUR  |            |         | Shaped                              | 0     |
+| Dyreex Pro Player           |           |            |         |                                     | 0     |
 
 ### Multi
 
